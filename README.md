@@ -1,5 +1,7 @@
 # Exercícios de Fundamentos de Java
 
+> Os exercícios foram reunidos em [estudos-programacao](https://github.com/jhonmnf/estudos-programacao/tree/main/java/fundamentos). Novos exercícios devem ser adicionados ao repositório central; este repositório preserva a origem do material.
+
 Exercícios de Java com exemplos de variáveis, operações e saída no terminal. O código está organizado como projeto Eclipse na pasta `meuprojeto2/`.
 
 ## Executar um exercício
